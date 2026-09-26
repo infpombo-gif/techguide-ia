@@ -1,1 +1,32 @@
+PYTHON
+
+Python é uma linguagem de programação de alto nível conhecida por sua sintaxe simples e legível.
+
+Uma variável é utilizada para armazenar um valor que pode ser utilizado durante a execução de um programa.
+
+Uma lista é uma estrutura de dados que permite armazenar vários valores em uma única variável.
+
+Uma função é um bloco de código criado para executar uma determinada tarefa e pode receber parâmetros e retornar valores.
+
+GIT E GITHUB
+
+Git é um sistema de controle de versão utilizado para acompanhar alterações realizadas em arquivos e projetos.
+
+GitHub é uma plataforma utilizada para hospedar repositórios Git e facilitar a colaboração em projetos.
+
+Um commit é o registro de alterações realizadas em um projeto utilizando Git.
+
+BANCO DE DADOS
+
+Um banco de dados é utilizado para armazenar, organizar e consultar informações.
+
+SQL é uma linguagem utilizada para realizar operações em bancos de dados relacionais.
+
+INTELIGÊNCIA ARTIFICIAL
+
+Inteligência Artificial é uma área da tecnologia que busca desenvolver sistemas capazes de realizar tarefas que normalmente exigiriam capacidades associadas à inteligência humana.
+
+Um prompt é uma instrução fornecida a um modelo de inteligência artificial para orientar sua resposta.
+
+Um assistente virtual é um sistema capaz de interagir com usuários e fornecer respostas ou executar tarefas de acordo com suas instruções.
 
